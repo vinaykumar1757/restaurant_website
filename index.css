@@ -27,9 +27,16 @@
 }
 
 .banner-section-bg-container {
-    background-image: url("https://images.ctfassets.net/h81st780aesh/4qwFquWIMyTXN52EQCYYUJ/379eb258cde56a7204c5e66689b54249/super-bowl-restaurant-promotions.jpg");
+    background-image: url("https://img.freepik.com/free-photo/top-view-circular-food-frame_23-2148723453.jpg");
     height: 100vh;
     background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
 }
 
 .banner-heading {
